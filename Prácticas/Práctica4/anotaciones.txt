@@ -1,0 +1,21 @@
+ejercicio 1: 
+	bechmarck de cpu o memoria recomienda que ejecutemos
+	comentar el resultado
+
+ejercicio 2:
+	ver cuantas hebras y/o procesos que en el enunciado pone como "tareas"
+
+ejercicio 3:
+	ejecutar desde anfitrion a las tres maquinas. hay que apagar las demás para hacerlo sobre una
+	comentar los resultados obtenidos
+	poner resultados en una tabla y comentarlos (segun las cargas y demas)
+
+ejercicio 4:
+	opcional:
+		probar con otras webs(como la de la universidad) para atacar en vez de la que trae el tutorial.
+	repositorio active directore -- es un probe para utilizar que recomienda
+
+ejercicio 5:
+	tomar una serie de medidas (el numero de muestras tiene que ir en funcion de lo que se da en teoria, no puede ser aleatorio)
+	accesos a sistemas de archivos, bases de datos en memoria o en lo otro, comparar distintos lenguajes de programación...etc 3 NIVELES
+	AL FINAL HAY QUE explicar el experimento y ver la SIGNIFICANCIA menor de 5 por ciento
