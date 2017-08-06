@@ -1,8 +1,0 @@
-	MySQL	Mongo
-Tiempo 1 (ms) 	20270	5664
-Tiempo 2 (ms) 	25327	5511
-Tiempo 3 (ms) 	29537	5555
-Tiempo 4 (ms) 	31616	5359
-Tiempo 5 (ms) 	44045	5415
-Tiempo 6 (ms) 	41190	5387
-Media		
