@@ -1,0 +1,217 @@
+%----------------------------------------------------------------------------------------
+%	Cuestión 1
+%----------------------------------------------------------------------------------------
+
+@misc{enlace1,
+	title = "\url{http://www.gonzalonazareno.org/cloud/material/IntroVirtualizacion.pdf}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{enlace2,
+	title = "\url{https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n#Tipos_de_virtualizaci.C3.B3n}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{enlace3,
+	title = "\url{http://es.slideshare.net/erikita1702/tipos-de-virtualizacion-13572963}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+%----------------------------------------------------------------------------------------
+%	Cuestión 2
+%----------------------------------------------------------------------------------------
+
+@misc{figura7,
+	title = "\url{https://dinahosting.com/dedicados/servidores-no-administrados}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{figura6,
+	title = "\url{https://www.rubinhost.com/servidores-dedicados-no-administrados}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{figura5,
+	title = "\url{https://contabo.com/?show=servers}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{figura4,
+	title = "\url{https://www.arsys.es/servidores/dedicados}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{figura3,
+	title = "\url{https://cloud.google.com/compute/?utm_source=google&utm_medium=cpc&utm_campaign=2015-q2-cloud-emea-gcp-bkws-freetrial-en&gclid=CIrijubx6c8CFROeGwodo1cA3g}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{figura12,
+	title = "\url{https://www.microsoft.com/en-us/cloud-platform/windows-server-pricing}",
+	year = "consultado el 26 de octubre de 2016",
+}
+
+
+@misc{figura2,
+	title = "\url{https://contabo.com/?show=ssdvps&gclid=COqx_Ovz6c8CFfAy0wodlBsOIw}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{figura1,
+	title = "\url{https://www.arsys.es/servidores/vps?acp=316967523&avl=19256490003|%2Bvirtual%20%2Bserver|1t1|&gclid=CPKcxN7y6c8CFRdmGwodbgcB4Q}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{enlace4,
+	title = "\url{http://www.apser.es/blog/2015/05/22/vps-administrado-o-no-administrado-frente-a-servidor-dedicado-comparativa/}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{enlace5,
+	title = "\url{http://www.adw.es/comparativa-cloud-dedicado.html}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{enlace6,
+	title = "\url{https://www.pickaweb.es/ayuda/cual-es-la-diferencia-entre-un-vps-y-un-servidor-dedicado/}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+
+%----------------------------------------------------------------------------------------
+%	Cuestión 3
+%----------------------------------------------------------------------------------------
+
+@misc{enlace7,
+	title = "\url{https://technet.microsoft.com/en-us/windows-server-docs/get-started/what-s-new-in-windows-server-2016}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{enlace8,
+	title = "\url{https://technet.microsoft.com/en-us/windows-server-docs/compute/hyper-v/what-s-new-in-hyper-v-on-windows}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{enlace10,
+	title = "\url{https://technet.microsoft.com/en-us/windows-server-docs/get-started/getting-started-with-nano-server}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+%----------------------------------------------------------------------------------------
+%	Cuestión 4
+%----------------------------------------------------------------------------------------
+
+@misc{enlace11,
+	title = "\url{https://www.youtube.com/watch?v=J1XH0SQARgo}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{enlace12,
+	title = "\url{https://www.ubuntu.com/cloud/maas}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{enlace13,
+	title = "\url{https://landscape.canonical.com/landscape-features}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+%----------------------------------------------------------------------------------------
+%	Cuestión 5
+%----------------------------------------------------------------------------------------
+
+@misc{enlace14,
+	title = "\url{https://es.wikipedia.org/wiki/CentOS}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{enlace15,
+	title = "\url{https://community.redhat.com/centos-faq/}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+%----------------------------------------------------------------------------------------
+%	Cuestión 6
+%----------------------------------------------------------------------------------------
+
+@misc{enlace16,
+	title = "\url{https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/3/html/System_Administration_Guide/s1-raid-approaches.html}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+%----------------------------------------------------------------------------------------
+%	Cuestión 7
+%----------------------------------------------------------------------------------------
+
+@misc{enlace17,
+	title = "\url{http://tldp.org/HOWTO/LVM-HOWTO/whatislvm.html}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{link7b,
+	title = "\url{http://www.linux-es.org/node/112}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+%----------------------------------------------------------------------------------------
+%	Cuestión 8
+%----------------------------------------------------------------------------------------
+
+@misc{link8a,
+	title = "\url{https://wiki.archlinux.org/index.php/Swap_(Espa%C3%B1ol)}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{link8b,
+	title = "\url{https://es.wikipedia.org/wiki/Proceso_de_arranque_en_Linux}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+%----------------------------------------------------------------------------------------
+%	Cuestión 9
+%----------------------------------------------------------------------------------------
+
+@misc{enlace18,
+	title = "\url{https://es.wikipedia.org/wiki/Ext4}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{link9a,
+	title = "\url{http://www.seagate.com/es/es/tech-insights/deploying-solid-state-hybrid-drives-workplace-master-ti/}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+@misc{link9a2,
+	title = "\url{http://www.howtogeek.com/195262/hybrid-hard-drives-explained-why-you-might-want-one-instead-of-an-ssd/}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+
+%----------------------------------------------------------------------------------------
+%	Cuestión 12
+%----------------------------------------------------------------------------------------
+
+@misc{link12,
+	title = "\url{http://www.howtogeek.com/195262/hybrid-hard-drives-explained-why-you-might-want-one-instead-of-an-ssd/}",
+	year = "consultado el 15 de octubre de 2016",
+}
+
+
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	Cuestión 14
+%----------------------------------------------------------------------------------------
+@misc{link1,
+	title = "\url{https://pubs.vmware.com/workstation-9/index.jsp?topic=%2Fcom.vmware.ws.using.doc%2FGUID-D9B0A52D-38A2-45D7-A9EB-987ACE77F93C.html}",
+	year = "consultado el 20 de octubre de 2016",
+}
+
+@misc{link2,
+	title = "\url{https://www.virtualbox.org/manual/ch06.html}",
+	year = "consultado el 20 de octubre de 2016",
+}
